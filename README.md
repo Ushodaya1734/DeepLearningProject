@@ -1,4 +1,6 @@
 # DeepLearningProject
+#Image Enhancement using CNN
+
 The human visual perception of an image can be greatly affected by the contrast of an image. 
 Contrast is defined as the difference in the pixel intensity value of a particular pixel 
 to its neighbouring pixels. If the difference in the intensity is more, then
