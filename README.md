@@ -13,3 +13,4 @@ the most effectively used technique to enhance the quality of an image.
 
 First, the image is locally enhanced and the output is again processed by the global enhancement method
 thereby giving a properly enhanced image without losing the brightness of the image.
+![image](https://user-images.githubusercontent.com/131970727/234874565-fbab9c5e-10cd-4354-a82a-c384d752d0ae.png)
